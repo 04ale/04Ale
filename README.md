@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi Devs! I’m Alexandre 👋
 
-<!--
-**04ale/04Ale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Developer** specializing in building web applications with **React**, **PHP**, **Firebase**, and **MySQL**. At 20 years old, I love creating impactful projects and learning new technologies every day.
 
-Here are some ideas to get you started:
+## 🚀 Top Skills
+- **React** (front-end magic)
+- **PHP** (dynamic back-end solutions)
+- **Firebase** (real-time databases & authentication)
+- **MySQL** (robust data storage)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Featured Projects
+You can explore all my work right here on my [GitHub profile](https://github.com/04ale)!  
+I enjoy sharing open-source projects and collaborating with other developers.
+
+## 📫 Let’s Connect!
+- [LinkedIn: Alexandre Pereira](https://www.linkedin.com/in/alexandre-pereira-313479215/)
