@@ -1,6 +1,6 @@
 # Hi Devs! I’m Alexandre 👋
 
-I'm a passionate **Developer** specializing in building web applications with **React**, **Node** **PHP**, **Firebase**, and **MySQL**. At 20 years old, I love creating impactful projects and learning new technologies every day.
+I'm a passionate **Developer** specializing in building web applications with **React**, **Node**, **PHP**, **Firebase**, and **MySQL**. At 20 years old, I love creating impactful projects and learning new technologies every day.
 
 ## 🚀 Top Skills
 - **React** (front-end magic)
