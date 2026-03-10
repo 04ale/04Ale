@@ -4,10 +4,9 @@ I'm a passionate **Developer** specializing in building web applications with **
 
 ## 🚀 Top Skills
 - **React** (front-end magic)
-- **PHP** (dynamic back-end solutions)
 - **Node** (amazing api's)
+- **PostgreSQL** (robust data storage)
 - **Firebase** (real-time databases & authentication)
-- **MySQL** (robust data storage)
 
 ## 🛠️ Featured Projects
 You can explore all my work right here on my [GitHub profile](https://github.com/04ale)!  
