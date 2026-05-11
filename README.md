@@ -6,7 +6,7 @@ I'm a passionate **Developer** specializing in building web applications with **
 - **React** (front-end magic)
 - **Node** (amazing api's)
 - **PostgreSQL** (robust data storage)
-- **Firebase** (real-time databases & authentication)
+- **Supabase** (real-time databases & authentication)
 
 ## 🛠️ Featured Projects
 You can explore all my work right here on my [GitHub profile](https://github.com/04ale)!  
